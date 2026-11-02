@@ -1,77 +1,63 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=9FEF00&center=true&vCenter=true&width=600&lines=i38s;Red+Team+%7C+Offensive+Security;Reversing+%7C+Tooling" alt="Typing SVG" />
+</h1>
+
 <div align="center">
-
-```
-██╗██████╗  █████╗ ███████╗
-██║╚════██╗██╔══██╗██╔════╝
-██║ █████╔╝╚█████╔╝███████╗
-██║ ╚═══██╗██╔══██╗╚════██║
-██║██████╔╝╚█████╔╝███████║
-╚═╝╚═════╝  ╚════╝ ╚══════╝
-```
-
-**`> whoami`**
-
-```
-Red Team · Offensive Security · Reversing · Kernel · Game Hacking · Malware Dev
-Brazil | i38s · Red Team
-```
-
-[![Discord](https://img.shields.io/badge/Discord-golpismo-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/golpismo)
-[![GitHub](https://img.shields.io/badge/GitHub-i38s-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/i38s)
-
+  <a href="https://discord.com/users/1463989811797819623">
+    <img src="https://img.shields.io/badge/DISCORD-golpismo-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <a href="https://app.hackthebox.com/profile/i38s">
+    <img src="https://img.shields.io/badge/HACKTHEBOX-i38s-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HackTheBox">
+  </a>
+  <a href="https://tryhackme.com/p/i38s">
+    <img src="https://img.shields.io/badge/TRYHACKME-i38s-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe">
+  </a>
+  <a href="https://github.com/i38s">
+    <img src="https://img.shields.io/badge/GITHUB-i38s-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </div>
 
----
+<br>
 
-```
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" title="Linux"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="45" title="Windows"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" title="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" title="C"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" title="C++"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="45" title="Bash"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="45" title="Rust"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45" title="PHP"/>
+</div>
+
+<br>
+
+```text
+> whoami
+
+Red Team - Offensive Security - Reversing - Kernel - Game Hacking - Malware Dev
+Brazil | i38s - Red Team
+
 > cat languages.txt
-```
 
-<div align="center">
+[ C ] [ C++ ] [ C# ] [ PYTHON ] [ JAVASCRIPT ] [ TYPESCRIPT ]
+[ RUST ] [ BASH ] [ LUA ] [ RUBY ] [ PHP ] [ SQL ] [ POWERSHELL ] [ ASM ] [ X86_64 ]
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Assembly](https://img.shields.io/badge/ASM-x86__64-6E4C13?style=for-the-badge&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
-
----
-
-```
 > cat skills.txt
-```
 
-```
-[*] Reversing         :: IDA Pro · x64dbg · Ghidra · Binary Ninja
-[*] Kernel            :: Windows Driver Dev · DKOM · Callbacks · SSDT Hooks
-[*] Game Hacking      :: Memory R/W · Signature Scanning · Internal/External
-[*] Malware Dev / C2  :: Loaders · Injectors · Evasion · Shellcode · C2 Infra
-[*] Web Hacking       :: XSS · SQLi · SSRF · RCE · API Abuse
-[*] Network           :: Packet Crafting · Sniffing · MITM · Protocol Analysis
-[*] Exploitation      :: BOF · ROP Chains · Heap Spray · UAF · Privesc
-[*] OSINT             :: Recon · Footprinting · Social Engineering
-[*] Automation        :: Scripting · Bots · Tooling · CI pipelines
-```
+[*] Reversing         :: IDA Pro - x64dbg - Ghidra - Binary Ninja
+[*] Kernel            :: Windows Driver Dev - DKOM - Callbacks - SSDT Hooks
+[*] Game Hacking      :: Memory R/W - Signature Scanning - Internal/External
+[*] Malware Dev / C2  :: Loaders - Injectors - Evasion - Shellcode - C2 Infra
+[*] Web Hacking       :: XSS - SQLi - SSRF - RCE - API Abuse
+[*] Network           :: Packet Crafting - Sniffing - MITM - Protocol Analysis
+[*] Exploitation      :: BOF - ROP Chains - Heap Spray - UAF - Privesc
+[*] OSINT             :: Recon - Footprinting - Social Engineering
+[*] Automation        :: Scripting - Bots - Tooling - CI Pipelines
 
----
-
-```
 > cat toolset.txt
-```
 
-```
 [+] Debuggers    :: x64dbg / WinDbg / GDB / LLDB
 [+] Disasm       :: IDA Pro / Ghidra / Binary Ninja / Cutter
 [+] Network      :: Wireshark / Burp Suite / Scapy / Nmap / Metasploit
@@ -80,32 +66,35 @@ Brazil | i38s · Red Team
 [+] Web          :: Burp Suite / OWASP ZAP / SQLMap / Nuclei
 [+] Scripting    :: Python / JS / Bash / PowerShell / Lua
 [+] OSINT        :: Maltego / Shodan / SpiderFoot / theHarvester
-```
 
----
+> ls -la ~/labs
 
-```
+drwxr-xr-x  HackTheBox
+  - Meow (Starting Point)  :: Telnet Misconfiguration
+  - Fawn (Starting Point)  :: Anonymous FTP
+  - Cap (Easy)             :: IDOR & Command Injection (CVE Abuse)
+  - DutyBound (Medium)     :: Web Flask Session Forgery (In Progress)
+
+drwxr-xr-x  TryHackMe
+  - RootMe      :: File Upload Bypass & SUID PrivEsc
+  - Blue        :: EternalBlue (MS17-010)
+  - Billing     :: RCE (MagnusBilling) & Sudo Abuse (Fail2Ban)
+  - Pyrat       :: Python RCE & Git History Leak
+  - Anonymous   :: FTP, SMB & SUID
+  - OhSINT      :: OSINT & Social Engineering
+
+> cat current_focus.txt
+
+[*] Studying for the OSCP (Offensive Security Certified Professional)
+[*] Deep-diving into Active Directory Exploitation
+[*] Advanced Binary Exploitation (Heap & ROP)
+
+> echo $CONTACT
+
+Discord  :: golpismo
+GitHub   :: https://github.com/i38s
+TryHackMe:: https://tryhackme.com/p/i38s
+
 > ./stats --user i38s
-```
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=i38s&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=i38s&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=c9d1d9)
-
-![Streak](https://streak-stats.demolab.com?user=i38s&theme=dark&hide_border=true&background=0d0d0d&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=c9d1d9&dates=c9d1d9)
-
-</div>
-
----
-
-<div align="center">
-
-```
 [i38s@redteam ~]$ _
-```
-
-*"The quieter you become, the more you are able to hear."*
-
-</div>
