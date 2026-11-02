@@ -15,7 +15,9 @@
   <a href="https://github.com/i38s">
     <img src="https://img.shields.io/badge/GITHUB-i38s-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-</div>
+<a href="https://i38s.netlify.app">
+  <img src="https://img.shields.io/badge/WEBSITE-i38s-9FEF00?style=for-the-badge&logo=netlify&logoColor=black" alt="Portfolio Website">
+</a>
 
 <br>
 
