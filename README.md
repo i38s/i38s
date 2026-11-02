@@ -15,9 +15,10 @@
   <a href="https://github.com/i38s">
     <img src="https://img.shields.io/badge/GITHUB-i38s-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-<a href="https://i38s.netlify.app">
-  <img src="https://img.shields.io/badge/WEBSITE-i38s-9FEF00?style=for-the-badge&logo=netlify&logoColor=black" alt="Portfolio Website">
-</a>
+  <a href="https://i38s.netlify.app">
+    <img src="https://img.shields.io/badge/WEBSITE-i38s-9FEF00?style=for-the-badge&logo=netlify&logoColor=black" alt="Portfolio Website">
+  </a>
+</div>
 
 <br>
 
@@ -35,13 +36,16 @@
 
 <br>
 
-```text
-> whoami
+<table align="center" border="0" cellspacing="0" cellpadding="20" style="background-color: #0d1117; border-radius: 6px; border: 1px solid #30363d;">
+  <tr>
+    <td>
+      <pre style="color: #c9d1d9; font-family: 'Fira Code', 'Courier New', monospace; font-size: 13px; text-align: left; margin: 0; line-height: 1.5;">
+<span style="color: #9fef00;">&gt; whoami</span>
 
 Red Team - Offensive Security - Reversing - Kernel - Game Hacking - Malware Dev
 Brazil | i38s - Red Team
 
-> cat skills.txt
+<span style="color: #9fef00;">&gt; cat skills.txt</span>
 
 [*] Reversing         :: IDA Pro - x64dbg - Ghidra - Binary Ninja
 [*] Kernel            :: Windows Driver Dev - DKOM - Callbacks - SSDT Hooks
@@ -53,17 +57,21 @@ Brazil | i38s - Red Team
 [*] OSINT             :: Recon - Footprinting - Social Engineering
 [*] Automation        :: Scripting - Bots - Tooling - CI Pipelines
 
-> cat toolset.txt
+<span style="color: #9fef00;">&gt; cat toolset.txt</span>
 
-[+] Debuggers    :: x64dbg / WinDbg / GDB / LLDB
-[+] Disasm       :: IDA Pro / Ghidra / Binary Ninja / Cutter
-[+] Network      :: Wireshark / Burp Suite / Scapy / Nmap / Metasploit
-[+] Virt/Sand    :: VMware / VirtualBox / FLARE-VM / Any.run
-[+] Kernel       :: WDK / OSR Driver Loader / DebugView / PCHunter
-[+] Web          :: Burp Suite / OWASP ZAP / SQLMap / Nuclei
-[+] Scripting    :: Python / JS / Bash / PowerShell / Lua
-[+] OSINT        :: Maltego / Shodan / SpiderFoot / theHarvester
+[+] Debuggers         :: x64dbg / WinDbg / GDB / LLDB
+[+] Disasm            :: IDA Pro / Ghidra / Binary Ninja / Cutter
+[+] Network           :: Wireshark / Burp Suite / Scapy / Nmap / Metasploit
+[+] Virt/Sand         :: VMware / VirtualBox / FLARE-VM / Any.run
+[+] Kernel            :: WDK / OSR Driver Loader / DebugView / PCHunter
+[+] Web               :: Burp Suite / OWASP ZAP / SQLMap / Nuclei
+[+] Scripting         :: Python / JS / Bash / PowerShell / Lua
+[+] OSINT             :: Maltego / Shodan / SpiderFoot / theHarvester
 
-> ./stats --user i38s
+<span style="color: #9fef00;">&gt; ./stats --user i38s</span>
 
 [i38s@redteam ~]$ _
+      </pre>
+    </td>
+  </tr>
+</table>
