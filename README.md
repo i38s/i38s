@@ -39,11 +39,6 @@
 Red Team - Offensive Security - Reversing - Kernel - Game Hacking - Malware Dev
 Brazil | i38s - Red Team
 
-> cat languages.txt
-
-[ C ] [ C++ ] [ C# ] [ PYTHON ] [ JAVASCRIPT ] [ TYPESCRIPT ]
-[ RUST ] [ BASH ] [ LUA ] [ RUBY ] [ PHP ] [ SQL ] [ POWERSHELL ] [ ASM ] [ X86_64 ]
-
 > cat skills.txt
 
 [*] Reversing         :: IDA Pro - x64dbg - Ghidra - Binary Ninja
@@ -66,34 +61,6 @@ Brazil | i38s - Red Team
 [+] Web          :: Burp Suite / OWASP ZAP / SQLMap / Nuclei
 [+] Scripting    :: Python / JS / Bash / PowerShell / Lua
 [+] OSINT        :: Maltego / Shodan / SpiderFoot / theHarvester
-
-> ls -la ~/labs
-
-drwxr-xr-x  HackTheBox
-  - Meow (Starting Point)  :: Telnet Misconfiguration
-  - Fawn (Starting Point)  :: Anonymous FTP
-  - Cap (Easy)             :: IDOR & Command Injection (CVE Abuse)
-  - DutyBound (Medium)     :: Web Flask Session Forgery (In Progress)
-
-drwxr-xr-x  TryHackMe
-  - RootMe      :: File Upload Bypass & SUID PrivEsc
-  - Blue        :: EternalBlue (MS17-010)
-  - Billing     :: RCE (MagnusBilling) & Sudo Abuse (Fail2Ban)
-  - Pyrat       :: Python RCE & Git History Leak
-  - Anonymous   :: FTP, SMB & SUID
-  - OhSINT      :: OSINT & Social Engineering
-
-> cat current_focus.txt
-
-[*] Studying for the OSCP (Offensive Security Certified Professional)
-[*] Deep-diving into Active Directory Exploitation
-[*] Advanced Binary Exploitation (Heap & ROP)
-
-> echo $CONTACT
-
-Discord  :: golpismo
-GitHub   :: https://github.com/i38s
-TryHackMe:: https://tryhackme.com/p/i38s
 
 > ./stats --user i38s
 
