@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://discord.com/users/1463989811797819623">
-    <img src="https://img.shields.io/badge/DISCORD-golpismo-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    <img src="https://img.shields.io/badge/DISCORD-deputas-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
   <a href="https://app.hackthebox.com/profile/i38s">
     <img src="https://img.shields.io/badge/HACKTHEBOX-i38s-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HackTheBox">
